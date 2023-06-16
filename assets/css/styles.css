@@ -1,0 +1,10 @@
+.container {
+  height: 100%;
+  max-width: 960px;
+}
+
+.text-badge {
+  padding: .1em.4em;
+  background: var(--bs-black);
+}
+
